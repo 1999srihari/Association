@@ -1,8 +1,8 @@
 // Main class Code
 
-package com.gqt.Shafi;
+package com.gqt.Srihari;
 
-import com.gqt.Shafi.*;
+import com.gqt.Srihari.*;
 
 public class Launch
 {
@@ -20,7 +20,7 @@ public class Launch
 		
 		prj1.setProjectId(12);
 		prj1.setProjectName("ABCD");
-		prj1.setProjectManager("Shafi");
+		prj1.setProjectManager("Srihari");
 		prj1.setEmployees(emp1,emp2);
 		
 		prj2.setProjectId(13);
@@ -47,7 +47,7 @@ public class Launch
 
 
 
-package com.gqt.Shafi;
+package com.gqt.Srihari;
 
 public class Project
 {
@@ -100,7 +100,7 @@ public void disp()
 
 
   
-package com.gqt.Shafi;
+package com.gqt.Srihari;
 
 public class Employee
 {
